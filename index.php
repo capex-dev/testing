@@ -1,0 +1,1 @@
+echo "Tidak usah dibaca"
